@@ -1,18 +1,38 @@
 .Flowers Bloom
 {
-    background-color: red;
+    background-color: rgb(183, 106, 106);
     height:300xp;
     margin:0xp;
     padding:20xp;
 }
 .corpo
 {
-    background-color: #F5F5F5;
+    background-color: #AE7D7D;
+
 }
 
 div
 {
-    background-color:blue;
+    
     margin-top:100xp;
     border: 2xp solid black;
+}
+.itensmenu{
+
+
+}
+.barrasuperior{
+    background-color: #AE7D7D;
+    height:250px;
+    width:250px;
+}
+.caixasflor{
+    background-color: antiquewhite;
+    height: 200px;
+    width: 200px;
+
+}
+.nomeflor{
+    height: flor;
+
 }
